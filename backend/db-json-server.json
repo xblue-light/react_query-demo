@@ -1,0 +1,231 @@
+{
+  "user": {
+    "id": "255",
+    "username": "blazephoenix",
+    "email": "blazephoenix@pm.me",
+    "subscriptionType": "PREMIUM",
+    "subscriptionStartDate": "0000-00-00-12345",
+    "subscriptionEndingDate": "0000-00-00-12345",
+    "firstName": "Harris",
+    "lastName": "Alsaker",
+    "age": "30"
+  },
+  "favoriteArtists": [
+    {
+      "id": "98a2b761-cc71-4f52-b166-9c61d9019a3b",
+      "artistName": "Jenda Fiddler"
+    },
+    {
+      "id": "9ebbfd40-71ad-471e-aea9-b65bcaefb835",
+      "artistName": "Ailyn Glasspoole"
+    },
+    {
+      "id": "65917287-eafc-40ae-9ad2-4ed40eef26d2",
+      "artistName": "Kimble Bartley"
+    },
+    {
+      "id": "cb7787a2-fb77-4ae2-b69e-cad6ccbc0032",
+      "artistName": "Dot McCarrell"
+    },
+    {
+      "id": "798ae27d-d097-4da8-8c66-cb3a6d5d8ba0",
+      "artistName": "Konstantine MacAdie"
+    },
+    {
+      "artistName": "nidorino",
+      "id": "A-b6BmV"
+    },
+    {
+      "artistName": "nidoking",
+      "id": "3QPLHrA"
+    },
+    {
+      "artistName": "clefairy",
+      "id": "HH-g_ao"
+    }
+  ],
+  "topTenMixes": [
+    {
+      "id": 1,
+      "title": "Galium matthewsii A. Gray",
+      "album": "Rubiaceae",
+      "artistName": "Nathanial Tace"
+    },
+    {
+      "id": 2,
+      "title": "Lycopodiella caroliniana (L.) Pic. Serm. var. caroliniana",
+      "album": "Lycopodiaceae",
+      "artistName": "Jsandye Cockroft"
+    },
+    {
+      "id": 3,
+      "title": "Pipturus Weddell",
+      "album": "Urticaceae",
+      "artistName": "Tore MacMeanma"
+    },
+    {
+      "id": 4,
+      "title": "Saxifraga apetala Piper",
+      "album": "Saxifragaceae",
+      "artistName": "Mariejeanne Danjoie"
+    },
+    {
+      "id": 5,
+      "title": "Viburnum australe Morton",
+      "album": "Caprifoliaceae",
+      "artistName": "Vite Hugonnet"
+    },
+    {
+      "id": 6,
+      "title": "Cercocarpus montanus Raf. var. minutiflorus (Abrams) F.L. Martin",
+      "album": "Rosaceae",
+      "artistName": "Frannie Yansons"
+    },
+    {
+      "id": 7,
+      "title": "Downingia bicornuta A. Gray",
+      "album": "Campanulaceae",
+      "artistName": "Jesse Muglestone"
+    },
+    {
+      "id": 8,
+      "title": "Melanthera aspera (Jacq.) Steud. ex Small var. glabriuscula (Kuntze) J.C. Parks",
+      "album": "Asteraceae",
+      "artistName": "Frankie Roubay"
+    },
+    {
+      "id": 9,
+      "title": "Festuca dasyclada Hack. ex Beal",
+      "album": "Poaceae",
+      "artistName": "Lavinia Filipczak"
+    },
+    {
+      "id": 10,
+      "title": "Euopsis Nyl.",
+      "album": "Lichinaceae",
+      "artistName": "Mab Alldridge"
+    }
+  ],
+  "madeForYouMixes": [
+    {
+      "id": 1,
+      "title": "PANCRELIPASE",
+      "album": "Asteraceae",
+      "artistName": "Valle Abrahamsohn"
+    },
+    {
+      "id": 2,
+      "title": "acetaminophen and codeine phosphate",
+      "album": "Euphorbiaceae",
+      "artistName": "Hermione Mathers"
+    },
+    {
+      "id": 3,
+      "title": "pantoprazole sodium",
+      "album": "Fabaceae",
+      "artistName": "Heindrick Dilston"
+    },
+    {
+      "id": 4,
+      "title": "amlodipine besylate and valsartan",
+      "album": "Juncaceae",
+      "artistName": "Amelina Shaddock"
+    },
+    {
+      "id": 5,
+      "title": "Pelargonium sidoides",
+      "album": "Asteraceae",
+      "artistName": "Carey Levesque"
+    }
+  ],
+  "popularArtists": [
+    {
+      "id": "36b439c6-6d91-4fa6-b101-58e13377e5f1",
+      "artistName": "Kaylyn Goodall"
+    },
+    {
+      "id": "dc8285c8-0384-40d4-a1bd-331ae19d4f96",
+      "artistName": "Arliene Haycock"
+    },
+    {
+      "id": "9ebbfd40-71ad-471e-aea9-b65bcaefb835",
+      "artistName": "Ailyn Glasspoole"
+    },
+    {
+      "id": "b9dc92e8-75ff-4f44-8e38-b91fdeb55522",
+      "artistName": "Garey Schindler"
+    },
+    {
+      "id": "2373ba53-c8cb-4d88-9938-0be048e5e14b",
+      "artistName": "Adorne Casone"
+    },
+    {
+      "id": "1ac6f38d-4522-40d2-8604-f4d01e717afb",
+      "artistName": "Christiane Eake"
+    },
+    {
+      "id": "98a2b761-cc71-4f52-b166-9c61d9019a3b",
+      "artistName": "Jenda Fiddler"
+    },
+    {
+      "id": "7be9d028-d679-4bfb-8496-e3b4e6c3fcad",
+      "artistName": "Kelci Ortas"
+    },
+    {
+      "id": "65917287-eafc-40ae-9ad2-4ed40eef26d2",
+      "artistName": "Kimble Bartley"
+    },
+    {
+      "id": "cb7787a2-fb77-4ae2-b69e-cad6ccbc0032",
+      "artistName": "Dot McCarrell"
+    },
+    {
+      "id": "bdccd64c-abb4-48a9-b2b6-351f9b48f6cd",
+      "artistName": "Stefania Powner"
+    },
+    {
+      "id": "91c1047d-6254-46e5-8ed2-ed66c6e2131c",
+      "artistName": "Amye Rendbaek"
+    },
+    {
+      "id": "798ae27d-d097-4da8-8c66-cb3a6d5d8ba0",
+      "artistName": "Konstantine MacAdie"
+    },
+    {
+      "id": "e7518b50-c3d0-47a7-92cb-f3454a7da797",
+      "artistName": "Jeramey Ciccerale"
+    },
+    {
+      "id": "a6ae5822-f632-4770-a4ae-5b749dbc687b",
+      "artistName": "Bastien Ferrarini"
+    },
+    {
+      "id": "e0605eb5-7ab5-4346-a983-ba6d5382b304",
+      "artistName": "Neville Oldman"
+    },
+    {
+      "id": "680cd109-e30e-42be-bf01-fc9269e2c7b7",
+      "artistName": "Bren Sapson"
+    },
+    {
+      "id": "6dc67baa-68e0-42ce-9bcc-67ae5242b54b",
+      "artistName": "Juliane Twomey"
+    },
+    {
+      "id": "a4674d66-ea31-478a-93cf-98ece0300b6e",
+      "artistName": "Joelie Foli"
+    },
+    {
+      "id": "b7dd781a-111d-4a3e-9e8b-e35dae61a04b",
+      "artistName": "Phillie Wemm"
+    }
+  ],
+  "likedSongs": [
+    {
+      "id": "1",
+      "album": "Tapes #3-1",
+      "songTitle": "Horizon",
+      "artistName": "A.L.I.S.O.N"
+    }
+  ]
+}
